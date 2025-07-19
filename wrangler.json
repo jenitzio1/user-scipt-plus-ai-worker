@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "user-scipt-plus-ai-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "541b70e9-5f3c-4faf-9d4e-2a92c6487ff2",
+      "database_name": "balls"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
